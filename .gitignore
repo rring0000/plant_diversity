@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# macOS
+.DS_Store
+
+# Raw WWF data
+data/WWF/
+
+# Raw datasets
+data/raw/
+
+# Large GBIF datasets
+data/processed/gbif_occurrences.csv
+data/processed/gbif_ecoregion_occurrences.csv
+
+# Large GIS files
+data/processed/*.gpkg

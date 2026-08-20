@@ -1,0 +1,11 @@
+ECO_ID,ECO_NAME,GBIF_records,Observed_species,Singletons,Doubletons,Chao1
+40302.0,Luzon tropical pine forests,8428,1718,702,313,2505.226837060703
+60112.0,Central American montane forests,4365,1462,726,286,2383.4615384615386
+40130.0,Mindoro rain forests,9091,1476,669,324,2166.6805555555557
+41001.0,Kinabalu montane alpine meadows,8193,1295,587,247,1992.5080971659918
+60305.0,Hispaniolan pine forests,4439,1207,538,214,1883.271028037383
+61312.0,Motagua Valley thornscrub,5862,991,379,175,1401.402857142857
+60146.0,Oaxacan montane forests,1971,689,364,110,1291.2545454545455
+60177.0,Veracruz montane forests,1987,590,294,112,975.875
+60113.0,Chiapas montane forests,1133,510,293,95,961.8368421052631
+40159.0,Sumatran montane rain forests,139,103,85,9,504.3888888888889
